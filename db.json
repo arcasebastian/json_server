@@ -4,14 +4,39 @@
 			"id": 1,
 			"name": "Toyota",
 			"active": true
+		},
+		{
+			"id": 2,
+			"name": "Nissan",
+			"active": true
+		},
+		{
+			"id": 3,
+			"name": "Volkswagen",
+			"active": true
 		}
 	],
 	"models":[
 		{
+			"id": 1,
 			"brandId": 1,
 			"name": "Hilux",
 			"baseCost": 1000,
 			"maxInsurance": 12
+		},
+		{
+			"id": 2,
+			"brandId": 2,
+			"name": "Frontier",
+			"baseCost": 250,
+			"maxInsurance": 18
+		},
+		{
+			"id": 3,
+			"brandId": 3,
+			"name": "Amarok",
+			"baseCost": 1500,
+			"maxInsurance": 6
 		}
 	]
 }
