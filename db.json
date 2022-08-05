@@ -16,7 +16,7 @@
 			"active": true
 		}
 	],
-	"models":[
+	"model":[
 		{
 			"id": 1,
 			"brandId": 1,
