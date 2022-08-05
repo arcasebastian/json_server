@@ -1,0 +1,17 @@
+{
+	"brand":[
+		{
+			"id": 1,
+			"name": "Toyota",
+			"active": true
+		}
+	],
+	"models":[
+		{
+			"brandId": 1,
+			"name": "Hilux",
+			"baseCost": 1000,
+			"maxInsurance": 12
+		}
+	]
+}
